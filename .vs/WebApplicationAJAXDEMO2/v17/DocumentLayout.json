@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|c:\\012_ajax\\workspace\\webapplicationajaxdemo2\\webapplicationajaxdemo2\\views\\home\\homework.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|solutionrelative:webapplicationajaxdemo2\\views\\home\\homework.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|c:\\012_ajax\\workspace\\webapplicationajaxdemo2\\webapplicationajaxdemo2\\views\\home\\callapi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|solutionrelative:webapplicationajaxdemo2\\views\\home\\callapi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|c:\\012_ajax\\workspace\\webapplicationajaxdemo2\\webapplicationajaxdemo2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|solutionrelative:webapplicationajaxdemo2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|c:\\012_ajax\\workspace\\webapplicationajaxdemo2\\webapplicationajaxdemo2\\views\\home\\jsontest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|solutionrelative:webapplicationajaxdemo2\\views\\home\\jsontest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|c:\\012_ajax\\workspace\\webapplicationajaxdemo2\\webapplicationajaxdemo2\\views\\home\\first.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|solutionrelative:webapplicationajaxdemo2\\views\\home\\first.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|c:\\012_ajax\\workspace\\webapplicationajaxdemo2\\webapplicationajaxdemo2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|solutionrelative:webapplicationajaxdemo2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|c:\\012_ajax\\workspace\\webapplicationajaxdemo2\\webapplicationajaxdemo2\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|solutionrelative:webapplicationajaxdemo2\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|c:\\012_ajax\\workspace\\webapplicationajaxdemo2\\webapplicationajaxdemo2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|solutionrelative:webapplicationajaxdemo2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|c:\\012_ajax\\workspace\\webapplicationajaxdemo2\\webapplicationajaxdemo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|solutionrelative:webapplicationajaxdemo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|c:\\012_ajax\\workspace\\webapplicationajaxdemo2\\webapplicationajaxdemo2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|solutionrelative:webapplicationajaxdemo2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|c:\\012_ajax\\workspace\\webapplicationajaxdemo2\\webapplicationajaxdemo2\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|solutionrelative:webapplicationajaxdemo2\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 119,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 107,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeWork.cshtml",
+              "DocumentMoniker": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Views\\Home\\HomeWork.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAJAXDEMO2\\Views\\Home\\HomeWork.cshtml",
+              "ToolTip": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Views\\Home\\HomeWork.cshtml",
+              "RelativeToolTip": "WebApplicationAJAXDEMO2\\Views\\Home\\HomeWork.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T14:47:42.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAJAXDEMO2\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "WebApplicationAJAXDEMO2\\Controllers\\ApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T02:06:51.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CallAPi.cshtml",
+              "DocumentMoniker": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Views\\Home\\CallAPi.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAJAXDEMO2\\Views\\Home\\CallAPi.cshtml",
+              "ToolTip": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Views\\Home\\CallAPi.cshtml",
+              "RelativeToolTip": "WebApplicationAJAXDEMO2\\Views\\Home\\CallAPi.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T01:58:02.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "First.cshtml",
+              "DocumentMoniker": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Views\\Home\\First.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAJAXDEMO2\\Views\\Home\\First.cshtml",
+              "ToolTip": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Views\\Home\\First.cshtml",
+              "RelativeToolTip": "WebApplicationAJAXDEMO2\\Views\\Home\\First.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T01:49:12.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplicationAJAXDEMO2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplicationAJAXDEMO2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA2wBsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:53:51.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonTest.cshtml",
+              "DocumentMoniker": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Views\\Home\\JsonTest.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAJAXDEMO2\\Views\\Home\\JsonTest.cshtml",
+              "ToolTip": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Views\\Home\\JsonTest.cshtml",
+              "RelativeToolTip": "WebApplicationAJAXDEMO2\\Views\\Home\\JsonTest.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T07:33:17.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAJAXDEMO2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplicationAJAXDEMO2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T06:14:26.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationAJAXDEMO2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationAJAXDEMO2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAiwF0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T06:00:15.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationAJAXDEMO2\\Program.cs",
+              "ToolTip": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Program.cs",
+              "RelativeToolTip": "WebApplicationAJAXDEMO2\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAywA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:08:49.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationAJAXDEMO2\\appsettings.json",
+              "ToolTip": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\appsettings.json",
+              "RelativeToolTip": "WebApplicationAJAXDEMO2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T05:05:40.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationAJAXDEMO2\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "WebApplicationAJAXDEMO2\\Models\\MyDbContext.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAwCEAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:00:47.178Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApplicationAJAXDEMO2.props" />
+</Project>

@@ -1,0 +1,76 @@
+﻿@section Styles {
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        .card-text {
+            max-height: 4.5em;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            /* ellipsis超出的變成省略號 */
+            -webkit-box-orient: vertical;
+        }
+        img{
+            height:10em;
+        }
+    </style>
+}
+@{
+    ViewData["Title"] = "HomeWork";
+}
+
+
+    <div class="row row-cols-3" id="cardContainer">
+    </div>
+
+
+@*----------------------------------- *@
+@* <div class="card" id="cardContainer" style="width: 18rem;"> *@
+@* <img class="card-img-top h-500" src="$`imgCard`" alt="Card image cap"> *@
+    @* <div class="card-body"> *@
+        @* <h5 class="card-title"> Card title </h5> *@
+        @* < p class="card-text" > content.</p> *@
+    @* </div> *@
+@* </div> *@
+@*----------------------------------- *@
+
+@section Scripts {
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="~/js/travel.js"></script>
+    <script>
+        function createCard(spot) {
+            const card = document.createElement('div');
+            card.className = 'card';
+            card.style.width = '18rem';
+
+            const img = document.createElement('img');
+            img.className = 'card-img-top h-500';
+            img.src = spot.file.img[0].text;
+
+            const cardBody = document.createElement('div');
+            cardBody.className = 'card-body';
+
+            const cardTitle = document.createElement('div');
+            cardTitle.className = 'card-title';
+            cardTitle.innerText = spot.stitle;
+
+            const cardText = document.createElement('div');
+            cardText.className = 'card-text';
+            cardText.innerText = spot.xbody;
+
+            cardBody.appendChild(cardTitle);
+            cardBody.appendChild(cardText);
+
+            card.appendChild(img);
+            card.appendChild(cardBody);
+
+            return card;
+        }
+
+        const cardContainer = document.getElementById('cardContainer');
+
+        for (const spot of spots.CommonFormat.Section) {
+            const card = createCard(spot);
+            cardContainer.appendChild(card);
+        }
+    </script>
+}
