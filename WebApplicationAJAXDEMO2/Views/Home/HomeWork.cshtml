@@ -3,11 +3,18 @@
     <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
     <style>
         .card-text {
-            max-height: 4.5em;
             overflow: hidden;
             text-overflow: ellipsis;
-            /* ellipsis超出的變成省略號 */
+            /* ellipsis超出的變成省略 */
             -webkit-box-orient: vertical;
+        }
+
+        .card-body {
+            height:300px;
+        }
+
+        .m-10 > {
+            margin:10px;
         }
         img{
             height:10em;
@@ -19,7 +26,7 @@
 }
 
 
-    <div class="row row-cols-3" id="cardContainer">
+<div class="row row-cols-3 m-10 h8em" id="cardContainer">
     </div>
 
 
@@ -27,7 +34,11 @@
 @* <div class="card" id="cardContainer" style="width: 18rem;"> *@
 @* <img class="card-img-top h-500" src="$`imgCard`" alt="Card image cap"> *@
     @* <div class="card-body"> *@
+@* <h5 class="card-RowNumber" >RowNumber</h5> *@
         @* <h5 class="card-title"> Card title </h5> *@
+@* <h5 class="card-avBegin"> Card title </h5> *@
+@* < p class="card-avEnd" > content.</p> *@
+@* <h5 class="card-address"> Card title </h5> *@
         @* < p class="card-text" > content.</p> *@
     @* </div> *@
 @* </div> *@
@@ -48,18 +59,45 @@
 
             const cardBody = document.createElement('div');
             cardBody.className = 'card-body';
-
-            const cardTitle = document.createElement('div');
-            cardTitle.className = 'card-title';
-            cardTitle.innerText = spot.stitle;
-
+            const cardstitle = document.createElement('div');
+            cardstitle.className = 'card-stitle';
+            cardstitle.innerText = spot.stitle;
+            const cardRowNumber = document.createElement('div');
+            cardRowNumber.className = 'card-RowNumber';
+            cardRowNumber.innerText = spot.RowNumber;
+            const cardSERIAL_NO = document.createElement('div');
+            cardSERIAL_NO.className = 'card-SERIAL_NO';
+            cardSERIAL_NO.innerText = spot.SERIAL_NO;
+            const cardMEMO_TIME = document.createElement('div');
+            cardMEMO_TIME.className = 'card-MEMO_TIME';
+            cardMEMO_TIME.innerText = spot.MEMO_TIME;
+            const cardxpostDate = document.createElement('div');
+            cardxpostDate.className = 'card-xpostDate';
+            cardxpostDate.innerText = spot.xpostDate;
+            const cardavBegin = document.createElement('div');
+            cardavBegin.className = 'card-avBegin';
+            cardavBegin.innerText = spot.avBegin;
+            const cardavEnd = document.createElement('div');
+            cardavEnd.className = 'card-avEnd';
+            cardavEnd.innerText = spot.avEnd;
+            const cardCAT1 = document.createElement('div');
+            cardCAT1.className = 'card-CAT1';
+            cardCAT1.innerText = spot.CAT1;
+            const cardCAT2 = document.createElement('div');
+            cardCAT2.className = 'card-CAT2';
+            cardCAT2.innerText = spot.CAT2;
             const cardText = document.createElement('div');
             cardText.className = 'card-text';
             cardText.innerText = spot.xbody;
-
-            cardBody.appendChild(cardTitle);
+            cardBody.appendChild(cardRowNumber);
+            cardBody.appendChild(cardstitle);
+            cardBody.appendChild(cardavBegin);
+            cardBody.appendChild(cardxpostDate);
+            cardBody.appendChild(cardSERIAL_NO);
+            cardBody.appendChild(cardCAT1);
+            cardBody.appendChild(cardCAT2);
+            cardBody.appendChild(cardMEMO_TIME);
             cardBody.appendChild(cardText);
-
             card.appendChild(img);
             card.appendChild(cardBody);
 

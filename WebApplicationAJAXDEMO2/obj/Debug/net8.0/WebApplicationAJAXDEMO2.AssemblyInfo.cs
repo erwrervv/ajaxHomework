@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApplicationAJAXDEMO2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3623e498efd891df178e17d90a8bd70c81bae78")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApplicationAJAXDEMO2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApplicationAJAXDEMO2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

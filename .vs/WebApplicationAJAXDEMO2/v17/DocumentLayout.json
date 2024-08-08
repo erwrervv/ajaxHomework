@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|solutionrelative:webapplicationajaxdemo2\\views\\home\\homework.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|c:\\012_ajax\\workspace\\webapplicationajaxdemo2\\webapplicationajaxdemo2\\views\\home\\callapi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|solutionrelative:webapplicationajaxdemo2\\views\\home\\callapi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|c:\\012_ajax\\workspace\\webapplicationajaxdemo2\\webapplicationajaxdemo2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|solutionrelative:webapplicationajaxdemo2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|c:\\012_ajax\\workspace\\webapplicationajaxdemo2\\webapplicationajaxdemo2\\views\\home\\callapi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|solutionrelative:webapplicationajaxdemo2\\views\\home\\callapi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFED868D-6413-449A-9DAD-928C1195B74D}|WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2.csproj|c:\\012_ajax\\workspace\\webapplicationajaxdemo2\\webapplicationajaxdemo2\\views\\home\\jsontest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -72,7 +72,7 @@
               "RelativeDocumentMoniker": "WebApplicationAJAXDEMO2\\Views\\Home\\HomeWork.cshtml",
               "ToolTip": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Views\\Home\\HomeWork.cshtml",
               "RelativeToolTip": "WebApplicationAJAXDEMO2\\Views\\Home\\HomeWork.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-08T14:47:42.443Z",
               "EditorCaption": ""
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CallAPi.cshtml",
               "DocumentMoniker": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Views\\Home\\CallAPi.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAJAXDEMO2\\Views\\Home\\CallAPi.cshtml",
@@ -139,15 +139,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplicationAJAXDEMO2\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\012_Ajax\\workspace\\WebApplicationAJAXDEMO2\\WebApplicationAJAXDEMO2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplicationAJAXDEMO2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAB6AAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-07T06:14:26.43Z"
+              "WhenOpened": "2024-08-07T06:14:26.43Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

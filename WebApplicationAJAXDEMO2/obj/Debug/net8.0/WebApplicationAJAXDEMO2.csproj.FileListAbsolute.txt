@@ -524,3 +524,4 @@ C:\012_Ajax\workspace\WebApplicationAJAXDEMO2\WebApplicationAJAXDEMO2\obj\Debug\
 C:\012_Ajax\workspace\WebApplicationAJAXDEMO2\WebApplicationAJAXDEMO2\obj\Debug\net8.0\WebApplicationAJAXDEMO2.pdb
 C:\012_Ajax\workspace\WebApplicationAJAXDEMO2\WebApplicationAJAXDEMO2\obj\Debug\net8.0\WebApplicationAJAXDEMO2.genruntimeconfig.cache
 C:\012_Ajax\workspace\WebApplicationAJAXDEMO2\WebApplicationAJAXDEMO2\obj\Debug\net8.0\ref\WebApplicationAJAXDEMO2.dll
+C:\012_Ajax\workspace\WebApplicationAJAXDEMO2\WebApplicationAJAXDEMO2\obj\Debug\net8.0\WebApplicationAJAXDEMO2.sourcelink.json
